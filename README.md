@@ -1,20 +1,51 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 Sambhav Bhardwaj - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website 🚀  
 
-Currently, two official plugins are available:
+This portfolio showcases my projects, skills, and experience in:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 📊 Power BI
+- 🗄️ SQL
+- 📈 Data Analytics
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔥 Featured Projects
 
-## Expanding the ESLint configuration
+### 📊 Global Sales Intelligence Hub
+Interactive Power BI dashboard analyzing product, customer, and regional sales performance.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-portfolio
->>>>>>> 3af8ff048af15770d4ac96da4383903200bc574a
+### 🏦 Bank Loan Analysis Dashboard
+Data-driven insights into loan distribution, approval trends, and risk analysis.
+
+### ⏱️ Pomodoro Productivity App
+A React-based productivity timer application.
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 🌍 Live Portfolio
+
+(Coming Soon – Hosted on Vercel)
+
+---
+
+## 📬 Contact Me
+
+- LinkedIn: (Add your link here)
+- Email: (Add your email here)
+
+---
+
+⭐ If you like my work, feel free to give this repository a star!
