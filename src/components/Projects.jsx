@@ -7,7 +7,7 @@ export default function Projects() {
       title: "Global Sales Intelligence Hub",
       tech: "Power BI • DAX • SQL",
       desc: "Interactive dashboards to analyze product, customer and regional sales performance.",
-      image: "/images/Global sales_dashboard.jpeg",
+      image: "/images/global_sale_dashboard.jpeg",
       live: "https://app.powerbi.com/view?r=eyJrIjoiMmI0YjUxNDktNTQyOS00MDUzLTk4MWQtYmNjMGE2YjVkMjIxIiwidCI6ImEwZjgxN2I5LWM5OTMtNDAwNS1hNzQ3LWUzY2JmM2Y0NjVmNyJ9",
       code: "https://github.com/Sambhav-Bhardwaj/Global-Sales-Intelligence-Hub-Power-BI-Dashboard",
     },
@@ -125,7 +125,7 @@ export default function Projects() {
       whileInView={{ opacity: 1, y: 0, scale: 1 }}
       transition={{ duration: 0.9, ease: "easeOut" }}
       viewport={{ once: true, amount: 0.25 }}
-      className="relative min-h-screen flex items-center justify-center
+      className="relative min-h-screen px-6 py-24 bg-[#020617] overflow-hidden
       px-6 py-24 bg-[#020617] overflow-hidden"
     >
       {/* SAME CYBER GLOW */}
